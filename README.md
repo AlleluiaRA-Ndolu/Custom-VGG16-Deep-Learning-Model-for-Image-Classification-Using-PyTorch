@@ -13,7 +13,7 @@ This project focuses on image classification using a custom-built VGG16 architec
 
 ## Architecture
 
-![VGG Architecture](VGG_Architecture.png)
+![VGG Architecture](VGG Architecture.png)
 
 The architecture is based on the classic VGG model, which consists of several convolutional layers followed by fully connected layers, incorporating Batch Normalization and ReLU activation functions at each layer.
 
